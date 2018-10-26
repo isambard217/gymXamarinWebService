@@ -1,0 +1,16 @@
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveWebservice.deps.json
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveWebservice.runtimeconfig.json
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveWebservice.runtimeconfig.dev.json
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveWebservice.dll
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveWebservice.pdb
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/NetCoreLibrary.dll
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveLibrary.dll
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/WeActiveLibrary.pdb
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/bin/Debug/netcoreapp2.0/NetCoreLibrary.pdb
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.csprojResolveAssemblyReference.cache
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.csproj.CoreCompileInputs.cache
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.AssemblyInfoInputs.cache
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.AssemblyInfo.cs
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.dll
+/Users/isambardwheeler-artwell/Documents/Projects/Xamarin/Webservices/WeActiveWebservice/WeActiveWebservice/obj/Debug/netcoreapp2.0/WeActiveWebservice.pdb
